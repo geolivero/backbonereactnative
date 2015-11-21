@@ -9,7 +9,7 @@ Install first
 
 - npm install backbonereactnative
 
-## The import in your application like so
+## Then import in your application like so
 
 <pre>
 import Backbone from "backbonereactnative";
