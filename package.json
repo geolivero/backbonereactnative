@@ -1,7 +1,7 @@
 {
   "name": "backbonereactnative",
-  "version": "0.0.1",
-  "description": "Backbone for react native width ES6 fetch as request method",
+  "version": "0.0.2",
+  "description": "Backbone for react native with fetch as request method",
   "main": "backbonereactnative.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
