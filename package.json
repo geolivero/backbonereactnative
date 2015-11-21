@@ -1,0 +1,25 @@
+{
+  "name": "backbonereactnative",
+  "version": "0.0.1",
+  "description": "Backbone for react native width ES6 fetch as request method",
+  "main": "backbonereactnative.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geolivero/backbonereactnative.git"
+  },
+  "keywords": [
+    "backbone",
+    "react",
+    "native",
+    "react"
+  ],
+  "author": "Gerald Olivero <geo.geolivero@gmail.com> (http://geolivero.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geolivero/backbonereactnative/issues"
+  },
+  "homepage": "https://github.com/geolivero/backbonereactnative#readme"
+}
