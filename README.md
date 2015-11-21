@@ -3,7 +3,13 @@ Backbone react native
 
 Use it like you normaly would use Backbone but without the Views and jQuery.
 
-npm install backbonereactnative
+## Documentation
+
+Install first
+
+- npm install backbonereactnative
+
+## The import in your application like so
 
 <pre>
 import Backbone from "backbonereactnative";
