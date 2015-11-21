@@ -1,6 +1,6 @@
 {
   "name": "backbonereactnative",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Backbone for react native with fetch as request method",
   "main": "backbonereactnative.js",
   "scripts": {
