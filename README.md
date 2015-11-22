@@ -9,16 +9,16 @@ Install first
 
 - npm install backbonereactnative
 
-## Then import in your application like so
+### Then import in your application like so
 
 <pre>
 import Backbone from "backbonereactnative";
 </pre>
 
-- or -
+or
 
 <pre>
 var Backbone = require('backbonereactnative');
 </pre>
 
-### "experimental"
+#### "experimental"
