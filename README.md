@@ -1,7 +1,7 @@
 Backbone react native
 ========
 
-Use it like you normaly would use Backbone but without the Views and jQuery.
+Use it like you normaly would use Backbone but without the Views and jQuery or other stuff you realy don't need.
 
 ## Documentation
 
