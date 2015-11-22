@@ -15,4 +15,10 @@ Install first
 import Backbone from "backbonereactnative";
 </pre>
 
+- or -
+
+<pre>
+var Backbone = require('backbonereactnative');
+</pre>
+
 ### "experimental"
