@@ -22,3 +22,5 @@ var Backbone = require('backbonereactnative');
 </pre>
 
 #### "experimental"
+
+Only use for fetching and saving, put, destroy request doe not work yet.
